@@ -26,4 +26,4 @@ The results have only 3 classes marked on them.
 ## To-do
 - [ ] Hyperparameter tuning
 - [ ] Extend to cover all the original classes
-- [ ] Try with Conv2DTranspose
+- [X] Try with Conv2DTranspose
