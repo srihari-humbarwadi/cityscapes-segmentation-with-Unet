@@ -2,7 +2,8 @@
 The model was trained on cityscape-dataset with classes merged into 8 main classes.
 The model was trained for 300k iterations with lr=0.001, and no wd.
 Results are expected to improve drastically after hyperparameter tuning
-
+You can download the pretrained weights from here
+[Pretrained weights](https://drive.google.com/file/d/1RaRn9eI40ZDXAX-ajnCT0oWJclR8w9RF/view?usp=sharing)
 ## List of classes
   - void
   - flat
