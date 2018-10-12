@@ -21,14 +21,16 @@ The results have only 3 classes marked on them.
  - vehicle (Blue)
  
 ## Video results
-[Part 1](https://youtu.be/D68uL3aEu5o)
-[Part 2](https://youtu.be/YwalCv13E0Q)
+[Part 1](https://youtu.be/ehy4yoVLuvM)
+[Part 2](https://youtu.be/Q7Z_4USTNuU)
+[Part 3](https://youtu.be/x5JNB3NrNfY)
+[Part 4](https://youtu.be/YwalCv13E0Q)
 
 ## Image results
-![image 1](outputs/results/1264.png)
-![image 1](outputs/results/1356.png)
-![image 1](outputs/results/1351.png)
-![image 1](outputs/results/1743.png)
+![image 1](outputs2/1.png)
+![image 1](outputs2/3.png)
+![image 1](outputs2/2.png)
+![image 1](outputs2/4.png)
   
 ## To-do
 - [ ] Hyperparameter tuning
