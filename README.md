@@ -13,11 +13,17 @@ Results are expected to improve drastically after hyperparameter tuning
   - human
   - vehicle
 
-## Results
+# Results
 The results have only 3 classes marked on them. 
  - human (Red)
  - construction (Green)
  - vehicle (Blue)
+ 
+## Video results
+[Part 1](https://youtu.be/D68uL3aEu5o)
+[Part 2](https://youtu.be/YwalCv13E0Q)
+
+## Image results
 ![image 1](outputs/results/1264.png)
 ![image 1](outputs/results/1356.png)
 ![image 1](outputs/results/1351.png)
