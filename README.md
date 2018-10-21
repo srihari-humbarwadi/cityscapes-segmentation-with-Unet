@@ -15,11 +15,20 @@ You can download the pretrained weights from here
   - vehicle
 
 # Results
-The results have only 3 classes marked on them. 
- - human (Red)
- - construction (Green)
- - vehicle (Blue)
- 
+The following color map has been used to display the results
+```
+color_map = {
+ '0': [0, 0, 0],
+ '1': [153, 153, 0],
+ '2': [255, 204, 204],
+ '3': [255, 0, 127],
+ '4': [0, 255, 0],
+ '5': [0, 204, 204],
+ '6': [255, 0, 0],
+ '7': [0, 0, 255]
+}
+```
+
 ## Video results
 [Part 1](https://youtu.be/ehy4yoVLuvM)
 [Part 2](https://youtu.be/Q7Z_4USTNuU)
