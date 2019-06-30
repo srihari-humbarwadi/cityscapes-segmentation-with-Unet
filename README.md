@@ -1,3 +1,6 @@
+This repository is no longer maintained,
+Please visit [https://github.com/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow2.0](https://github.com/srihari-humbarwadi/DeepLabV3_Plus-Tensorflow2.0)
+
 # Readme
 The model was trained on cityscape-dataset with classes merged into 8 main classes.
 The model was trained for 300k iterations with lr=0.001, and no wd.
